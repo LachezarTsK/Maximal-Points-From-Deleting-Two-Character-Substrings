@@ -1,4 +1,3 @@
-package maximalPointsFromDeletingTwoCharacterSubstrings.gitHub;
 
 public class Solution {
 
